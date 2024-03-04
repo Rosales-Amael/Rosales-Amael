@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Laravel & Typescript**
 
-- 👨‍💻 All of my projects are available at [amaeldev.netlify.app](amaeldev.netlify.app)
+- 👨‍💻 All of my projects are available at [amaeldev.netlify.app](https://amaeldev.netlify.app)
 
 - 💬 Ask me about **React & Laravel**
 
