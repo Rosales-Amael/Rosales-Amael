@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on [Cooking Recipes](https://github.com/Rosales-Amael/Cooking-Recipes-Frontend)
+- 🔭 I’m currently working on [Cooking Recipes Front](https://github.com/Rosales-Amael/Cooking-Recipes-Frontend) & [Cooking Recipes Back](https://github.com/Rosales-Amael/Cooking-Recipes-Backend)
 
 - 🌱 I’m currently learning **Laravel & Typescript**
 
