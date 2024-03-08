@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **amael.rosales@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/4voysqkgyte79qnw0as1s/CV.pdf?rlkey=w7wri6iywpcynf6yf687fn9uh&e=1&dl=0](https://www.dropbox.com/scl/fi/4voysqkgyte79qnw0as1s/CV.pdf?rlkey=w7wri6iywpcynf6yf687fn9uh&e=1&dl=0)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1R5N0tr_nKKNcRTdkTLkhAw7viCBMdmhv/view)
 
 - ⚡ Fun fact **I think i can't work without drinking coffee**
 
